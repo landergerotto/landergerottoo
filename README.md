@@ -16,6 +16,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=landergerotto&icon=5&color=6)](https://visitcount.itsvg.in)
 ![:name](https://count.getloli.com/get/@:landergerotto)
 
